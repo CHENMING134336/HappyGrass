@@ -1,0 +1,4 @@
+TestHttpClient:
+  doGetHttp:
+    kglisturl: https://www.kugou.com/yy/special/single/3435104.html
+    kglisturl2: https://wwwapi.kugou.com/yy/index.php?r=play/getdata&callback=jQuery191012445837060940623_1612012793600&dfid=2AeApG3Js4ns3eUAbt0GPsxf&mid=809a75d8755ffe362c5e1e7c4f70b1f0&platid=4
